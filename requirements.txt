@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+faiss-cpu
+ollama  # If Ollama is used for embeddings
+python-dotenv  # For loading environment variables from .env siles
+bs4
+time
+logging
